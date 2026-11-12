@@ -1,0 +1,39 @@
+{
+  "player_evolution": [
+    {"hours": 0, "play_motivation": 90, "code_motivation": 0},
+    {"hours": 5, "play_motivation": 95, "code_motivation": 15},
+    {"hours": 10, "play_motivation": 90, "code_motivation": 25},
+    {"hours": 15, "play_motivation": 85, "code_motivation": 35},
+    {"hours": 25, "play_motivation": 60, "code_motivation": 50},
+    {"hours": 35, "play_motivation": 30, "code_motivation": 70},
+    {"hours": 50, "play_motivation": 10, "code_motivation": 85},
+    {"hours": 70, "play_motivation": 0, "code_motivation": 98},
+    {"hours": 90, "play_motivation": 0, "code_motivation": 100},
+    {"hours": 100, "play_motivation": 0, "code_motivation": 100}
+  ],
+  "code_learning": [
+    {"topic": "Переменные", "theory_learning": 70, "simulator_learning": 95},
+    {"topic": "Синтаксис", "theory_learning": 45, "simulator_learning": 85},
+    {"topic": "Условия (If/Else)", "theory_learning": 35, "simulator_learning": 90},
+    {"topic": "Циклы (For/While)", "theory_learning": 30, "simulator_learning": 85},
+    {"topic": "Функции", "theory_learning": 25, "simulator_learning": 80},
+    {"topic": "Классы (ООП)", "theory_learning": 15, "simulator_learning": 75},
+    {"topic": "Структуры данных", "theory_learning": 20, "simulator_learning": 70},
+    {"topic": "Архитектура", "theory_learning": 5, "simulator_learning": 60}
+  ],
+  "testing_costs": [
+    {"metric": "Затраты бюджета", "real_polygon": 100, "simulator": 0.5},
+    {"metric": "Риски персонала", "real_polygon": 100, "simulator": 0.0},
+    {"metric": "Время на 1 тест", "real_polygon": 100, "simulator": 0.1},
+    {"metric": "Износ оборудования", "real_polygon": 100, "simulator": 0.0},
+    {"metric": "Сложность масштабирования", "real_polygon": 100, "simulator": 1.0}
+  ],
+  "d7_retention": [
+    {"genre": "Кликеры", "retention_pct": 8},
+    {"genre": "Простые гиперказуалки", "retention_pct": 11},
+    {"genre": "Тетрис / Пазлы", "retention_pct": 22},
+    {"genre": "Обычные аркады", "retention_pct": 15},
+    {"genre": "Гонки без прокачки", "retention_pct": 18},
+    {"genre": "Игра ODS (RPG + Прокачка)", "retention_pct": 38}
+  ]
+}
